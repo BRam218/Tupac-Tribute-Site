@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: auto;
+  background: hsla(0, 0%, 0%, 1);
+  background: linear-gradient(270deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 0%, 100%, 1) 10%, hsla(0, 0%, 100%, 1) 92%, hsla(0, 0%, 0%, 1) 100%);
+  background: -moz-linear-gradient(270deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 0%, 100%, 1) 10%, hsla(0, 0%, 100%, 1) 92%, hsla(0, 0%, 0%, 1) 100%);
+  background: -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 0%, 100%, 1) 10%, hsla(0, 0%, 100%, 1) 92%, hsla(0, 0%, 0%, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#FFFFFF", GradientType=1);
+}
+
+footer{
+  color:white;
+  text-align: center;
+  margin: auto;
+  width:70%;
+}
+
+h1 {
+  font-family: font-family: Helvetica, Arial, sans-serif;
+  font-size: 4.375rem;
+  font-weight: bolder;
+  color:#d4af37;
+  margin-bottom:0;
+}
+
+h2{
+  font-family: 'Merriweather', cursive;
+  font-size: 1.25rem;
+  color:black;
+  padding-bottom: 10px;
+}
+
+h3{text-align:left;
+  width:70%;
+  margin:auto;
+  line-height: 2;
+
+}
+
+hr {
+  background-color: transparent;
+  border-style: dotted none none;
+  border-color: Black;
+  border-width: 10px;
+  height: 2px;
+  width: 5%;
+  margin:50px auto;
+}
+
+p{padding-bottom:25px;
+line-height: 2;
+width:70%;
+margin:auto;
+text-align: left;}
+
+.quote{
+  color:#d4af37;
+  padding-top:10px;
+  padding-bottom:20px;
+
+  font-size: 1.25rem;
+
+}
+
+.tupacintro {
+  width: 100%;
+}
+
+.top-container {}
+
+  .bottom-container{
+    color: #d4af37;
+    padding-bottom:175px;
+    padding-top: 50px;
+    font-weight: bolder;
+  }
+
+  .wikipedia{
+    color: #d4af37;
+  }
+
+  .wikipedia:hover{
+    cursor:pointer;
+
+  }
